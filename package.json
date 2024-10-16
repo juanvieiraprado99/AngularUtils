@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "storybook": "ng run AngularUtils:storybook",
-    "build-storybook": "ng run AngularUtils:build-storybook"
+    "build-storybook": "ng run AngularUtils:build-storybook --docs"
   },
   "private": true,
   "dependencies": {

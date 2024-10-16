@@ -32,6 +32,7 @@
           "options": {
             "configDir": ".storybook",
             "browserTarget": "AngularUtils:build",
+            "compodoc": false,
             "outputDir": "dist/storybook/AngularUtils"
           }
         },
